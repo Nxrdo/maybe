@@ -1,0 +1,530 @@
+[
+    {
+        "Stats": {
+            "ATK": 599,
+            "CRIT_DMG": 1.5,
+            "SPD": 102,
+            "DEF": 330,
+            "HP": 1199,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Destruction",
+            "Name": "Arlan",
+            "Affiliation": "Herta Space Station",
+            "Rarity": 4,
+            "Element": "Lightning"
+        },
+        "Skills": {
+            "Ult": 3.2,
+            "Skill": 2.4,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 511,
+            "CRIT_DMG": 1.5,
+            "SPD": 106,
+            "DEF": 463,
+            "HP": 1023,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Harmony",
+            "Name": "Asta",
+            "Affiliation": "Herta Space Station",
+            "Rarity": 4,
+            "Element": "Fire"
+        },
+        "Skills": {
+            "Ult": 0,
+            "Skill": 0.5,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 562,
+            "CRIT_DMG": 1.5,
+            "SPD": 98,
+            "DEF": 485,
+            "HP": 1319,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Abundance",
+            "Name": "Bailu",
+            "Affiliation": "Xianzhou Luofu",
+            "Rarity": 5,
+            "Element": "Lightning"
+        },
+        "Skills": {
+            "Ult": 0,
+            "Skill": 0,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 582,
+            "CRIT_DMG": 1.5,
+            "SPD": 99,
+            "DEF": 533,
+            "HP": 1241,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Harmony",
+            "Name": "Bronya",
+            "Affiliation": "Belobog",
+            "Rarity": 5,
+            "Element": "Wind"
+        },
+        "Skills": {
+            "Ult": 0,
+            "Skill": 0,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 737,
+            "CRIT_DMG": 1.5,
+            "SPD": 90,
+            "DEF": 485,
+            "HP": 1319,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Destruction",
+            "Name": "Clara",
+            "Affiliation": "Belobog",
+            "Rarity": 5,
+            "Element": "Physical"
+        },
+        "Skills": {
+            "Ult": 1.6,
+            "Skill": 1.2,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 546,
+            "CRIT_DMG": 1.5,
+            "SPD": 110,
+            "DEF": 396,
+            "HP": 882,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Hunt",
+            "Name": "Dan Heng",
+            "Affiliation": "Astral Express",
+            "Rarity": 4,
+            "Element": "Wind"
+        },
+        "Skills": {
+            "Ult": 4,
+            "Skill": 2.6,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 543,
+            "CRIT_DMG": 1.5,
+            "SPD": 92,
+            "DEF": 654,
+            "HP": 1397,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Preservation",
+            "Name": "Gepard",
+            "Affiliation": "Belobog",
+            "Rarity": 5,
+            "Element": "Ice"
+        },
+        "Skills": {
+            "Ult": 0,
+            "Skill": 2,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 582,
+            "CRIT_DMG": 1.5,
+            "SPD": 100,
+            "DEF": 396,
+            "HP": 952,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Erudition",
+            "Name": "Herta",
+            "Affiliation": "Herta Space Station",
+            "Rarity": 4,
+            "Element": "Ice"
+        },
+        "Skills": {
+            "Ult": 2,
+            "Skill": 1,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 756,
+            "CRIT_DMG": 1.5,
+            "SPD": 96,
+            "DEF": 436,
+            "HP": 1047,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Erudition",
+            "Name": "Himeko",
+            "Affiliation": "Astral Express",
+            "Rarity": 5,
+            "Element": "Fire"
+        },
+        "Skills": {
+            "Ult": 2.3,
+            "Skill": 2,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 617,
+            "CRIT_DMG": 1.5,
+            "SPD": 94,
+            "DEF": 352,
+            "HP": 1340,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Destruction",
+            "Name": "Hook",
+            "Affiliation": "Belobog",
+            "Rarity": 4,
+            "Element": "Fire"
+        },
+        "Skills": {
+            "Ult": 4,
+            "Skill": 2.8,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 698,
+            "CRIT_DMG": 1.5,
+            "SPD": 99,
+            "DEF": 485,
+            "HP": 1164,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Erudition",
+            "Name": "Jing Yuan",
+            "Affiliation": "Xianzhou Luofu",
+            "Rarity": 5,
+            "Element": "Lightning"
+        },
+        "Skills": {
+            "Ult": 1.2,
+            "Skill": 0.5,
+            "Basic": 0.5
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 511,
+            "CRIT_DMG": 1.5,
+            "SPD": 101,
+            "DEF": 573,
+            "HP": 1058,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Preservation",
+            "Name": "March 7th",
+            "Affiliation": "Astral Express",
+            "Rarity": 4,
+            "Element": "Ice"
+        },
+        "Skills": {
+            "Ult": 1.5,
+            "Skill": 0,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 476,
+            "CRIT_DMG": 1.5,
+            "SPD": 98,
+            "DEF": 507,
+            "HP": 1164,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Abundance",
+            "Name": "Natasha",
+            "Affiliation": "Belobog",
+            "Rarity": 4,
+            "Element": "Physical"
+        },
+        "Skills": {
+            "Ult": 0,
+            "Skill": 0,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 546,
+            "CRIT_DMG": 1.5,
+            "SPD": 105,
+            "DEF": 463,
+            "HP": 987,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Nihility",
+            "Name": "Pela",
+            "Affiliation": "Belobog",
+            "Rarity": 4,
+            "Element": "Ice"
+        },
+        "Skills": {
+            "Ult": 1,
+            "Skill": 2.1,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 652,
+            "CRIT_DMG": 1.5,
+            "SPD": 98,
+            "DEF": 441,
+            "HP": 1023,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Erudition",
+            "Name": "Qingque",
+            "Affiliation": "Xianzhou Luofu",
+            "Rarity": 4,
+            "Element": "Quantum"
+        },
+        "Skills": {
+            "Ult": 2,
+            "Skill": 1.28,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 617,
+            "CRIT_DMG": 1.5,
+            "SPD": 102,
+            "DEF": 396,
+            "HP": 1023,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Nihility",
+            "Name": "Sampo",
+            "Affiliation": "Belobog",
+            "Rarity": 4,
+            "Element": "Wind"
+        },
+        "Skills": {
+            "Ult": 1.6,
+            "Skill": 0.56,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 640,
+            "CRIT_DMG": 1.5,
+            "SPD": 115,
+            "DEF": 363,
+            "HP": 931,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Hunt",
+            "Name": "Seele",
+            "Affiliation": "Belobog",
+            "Rarity": 5,
+            "Element": "Quantum"
+        },
+        "Skills": {
+            "Ult": 4.25,
+            "Skill": 2.2,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 652,
+            "CRIT_DMG": 1.5,
+            "SPD": 104,
+            "DEF": 374,
+            "HP": 914,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Erudition",
+            "Name": "Serval",
+            "Affiliation": "Belobog",
+            "Rarity": 4,
+            "Element": "Lightning"
+        },
+        "Skills": {
+            "Ult": 1.8,
+            "Skill": 1.4,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 564,
+            "CRIT_DMG": 1.5,
+            "SPD": 107,
+            "DEF": 418,
+            "HP": 917,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Hunt",
+            "Name": "Sushang",
+            "Rarity": 4,
+            "Element": "Physical",
+            "Affilation": "Xianzhou Luofu"
+        },
+        "Skills": {
+            "Ult": 4,
+            "Skill": 2.6,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 529,
+            "CRIT_DMG": 1.5,
+            "SPD": 112,
+            "DEF": 396,
+            "HP": 846,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Harmony",
+            "Name": "Tingyun",
+            "Affiliation": "Xianzhou Luofu",
+            "Rarity": 4,
+            "Element": "Lightning"
+        },
+        "Skills": {
+            "Ult": 0,
+            "Skill": 0,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 601,
+            "CRIT_DMG": 1.5,
+            "SPD": 95,
+            "DEF": 606,
+            "HP": 1241,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Preservation",
+            "Name": "Trailblazer (Fire)",
+            "Affiliation": "Astral Express",
+            "Rarity": 5,
+            "Element": "Fire"
+        },
+        "Skills": {
+            "Ult": 1,
+            "Skill": 0,
+            "Basic": 1.35
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 620,
+            "CRIT_DMG": 1.5,
+            "SPD": 100,
+            "DEF": 460,
+            "HP": 1203,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Destruction",
+            "Name": "Trailblazer (Physical)",
+            "Affiliation": "Astral Express",
+            "Rarity": 5,
+            "Element": "Physical"
+        },
+        "Skills": {
+            "Ult": 4.5,
+            "Skill": 1.25,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 620,
+            "CRIT_DMG": 1.5,
+            "SPD": 102,
+            "DEF": 509,
+            "HP": 1125,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Nihility",
+            "Name": "Welt",
+            "Affiliation": "Astral Express",
+            "Rarity": 5,
+            "Element": "Imaginary"
+        },
+        "Skills": {
+            "Ult": 1.5,
+            "Skill": 0.72,
+            "Basic": 1
+        }
+    },
+    {
+        "Stats": {
+            "ATK": 679,
+            "CRIT_DMG": 1.5,
+            "SPD": 109,
+            "DEF": 412,
+            "HP": 892,
+            "CRIT_Rate": 5
+        },
+        "Information": {
+            "Path": "Hunt",
+            "Name": "Yanqing",
+            "Affiliation": "Xianzhou Luofu",
+            "Rarity": 5,
+            "Element": "Ice"
+        },
+        "Skills": {
+            "Ult": 3.5,
+            "Skill": 2.2,
+            "Basic": 1
+        }
+    }
+]
